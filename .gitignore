@@ -1,0 +1,6 @@
+# notes and logs
+*.txt
+*.log
+
+# dependency dirs
+build-avr-gcc/**
